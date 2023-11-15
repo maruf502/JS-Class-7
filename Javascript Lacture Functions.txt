@@ -1,0 +1,37 @@
+JS-Class-7
+
+JavaScript Library Functions .
+
+	1) How to Find string Length.
+	
+	2) Prompt() // Function.
+
+	3) charAt () // Function.
+
+	4) string.toUpperCase() // Function.
+
+	5) string.toLowerCase() // Function.
+
+	6) string1.concat(string2) // Function.
+
+	7) String.slice(Start,End)
+
+	=======================================================
+
+			Assignment
+			----------
+
+	*// Get First Name form user.
+
+	*// Get Last Name form user.
+
+	*// Add without using Library finction.
+
+	*// Print Full Name.
+
+	*// Total length of FullName.
+
+	*// Convart FullName into Uppercase.
+
+	*// Print the 2nd Position from FullName.
+
